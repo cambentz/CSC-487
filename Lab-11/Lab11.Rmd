@@ -1,7 +1,9 @@
 ---
 title: "K-Means and K-Medoids Clustering on Simulated Data"
 author: "Halil Bisgin"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ## Introduction
